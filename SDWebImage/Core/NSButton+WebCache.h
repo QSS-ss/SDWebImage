@@ -1,4 +1,4 @@
-/*
+/*QSS
  * This file is part of the SDWebImage package.
  * (c) Olivier Poitrey <rs@dailymotion.com>
  *
